@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/header-bg.jpg) no-repeat center top;
+  background: url(../images/header-bg-5.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -92,7 +92,6 @@ a:after {
 .header h1 {
   font-size: 80px;
   color: white;
-  background: rgba(0,0,0,0.2);
 }
 
 .header h3 {
@@ -140,6 +139,7 @@ a:after {
 .footer t {
   font-weight: 700;
 }
+ 
 
 /* social icons: */
 .footer i {
